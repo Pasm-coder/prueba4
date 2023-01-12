@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "name": "Stilletos",
+      "image": "assets/images/Stilettos 2.png",
+      "description":"",
+      "type": "",
+      "color": "",
+      "price":160000,
+      "discount": 0,
+      "quantity": 0
+    },
+    {
+      "id": "2",
+      "name": "Camisa",
+      "image": "assets/images/Camisa Hombre 2.png",
+      "description":"",
+      "type": "",
+      "color": "",
+      "price":50000,
+      "discount": 0,
+      "quantity": 0
+    },
+    {
+      "id": "3",
+      "name": "Camisa",
+      "image": "assets/images/Camisa Hombre 2.png",
+      "description":"",
+      "type": "",
+      "color": "",
+      "price":50000,
+      "discount": 0,
+      "quantity": 0
+    },
+    {
+      "id": "4",
+      "name": "Camisa",
+      "image": "assets/images/Camisa Hombre 2.png",
+      "description":"",
+      "type": "",
+      "color": "",
+      "price":50000,
+      "discount": 0,
+      "quantity": 0
+    }
+ 
+    
+  ]
